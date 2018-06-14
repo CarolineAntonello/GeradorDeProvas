@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6DCE2900-6B31-4B65-9A13-C3B167F442E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GeradorDeProvas.WinApp</RootNamespace>
+    <AssemblyName>GeradorDeProvas.WinApp</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Features\DisciplinaModule\ControlDisciplina.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\DisciplinaModule\ControlDisciplina.Designer.cs">
+      <DependentUpon>ControlDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\DisciplinaModule\FormDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Features\DisciplinaModule\FormDisciplina.Designer.cs">
+      <DependentUpon>FormDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\DisciplinaModule\GerenciadorDisciplina.cs" />
+    <Compile Include="Features\MateriaModule\ControlMateria.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\MateriaModule\ControlMateria.Designer.cs">
+      <DependentUpon>ControlMateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\MateriaModule\FormMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Features\MateriaModule\FormMateria.Designer.cs">
+      <DependentUpon>FormMateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\MateriaModule\GerenciadorMateria.cs" />
+    <Compile Include="Features\ProvaModule\ControlProva.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\ProvaModule\ControlProva.Designer.cs">
+      <DependentUpon>ControlProva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\ProvaModule\FormProva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Features\ProvaModule\FormProva.Designer.cs">
+      <DependentUpon>FormProva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\ProvaModule\GerenciadorProva.cs" />
+    <Compile Include="Features\QuestaoModule\ControlQuestao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\QuestaoModule\ControlQuestao.Designer.cs">
+      <DependentUpon>ControlQuestao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\QuestaoModule\FormQuestao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Features\QuestaoModule\FormQuestao.Designer.cs">
+      <DependentUpon>FormQuestao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\QuestaoModule\GerenciadorQuestao.cs" />
+    <Compile Include="Features\SerieModule\ControlSerie.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\SerieModule\ControlSerie.Designer.cs">
+      <DependentUpon>ControlSerie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\SerieModule\FormSerie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Features\SerieModule\FormSerie.Designer.cs">
+      <DependentUpon>FormSerie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\SerieModule\GerenciadorSerie.cs" />
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GerenciadorFormulario.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Features\DisciplinaModule\ControlDisciplina.resx">
+      <DependentUpon>ControlDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\DisciplinaModule\FormDisciplina.resx">
+      <DependentUpon>FormDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\MateriaModule\ControlMateria.resx">
+      <DependentUpon>ControlMateria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\MateriaModule\FormMateria.resx">
+      <DependentUpon>FormMateria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\ProvaModule\ControlProva.resx">
+      <DependentUpon>ControlProva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\ProvaModule\FormProva.resx">
+      <DependentUpon>FormProva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\QuestaoModule\ControlQuestao.resx">
+      <DependentUpon>ControlQuestao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\QuestaoModule\FormQuestao.resx">
+      <DependentUpon>FormQuestao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\SerieModule\ControlSerie.resx">
+      <DependentUpon>ControlSerie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\SerieModule\FormSerie.resx">
+      <DependentUpon>FormSerie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GeradorDeProvas.Aplication\GeradorDeProvas.Aplication.csproj">
+      <Project>{69BCFCBF-F6ED-4E08-B9DE-8276839C15EC}</Project>
+      <Name>GeradorDeProvas.Aplication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeradorDeProvas.Domain\GeradorDeProvas.Domain.csproj">
+      <Project>{afca6478-ec82-4168-aa6a-dfd339adcb28}</Project>
+      <Name>GeradorDeProvas.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeradorDeProvas.Infra\GeradorDeProvas.Infra.csproj">
+      <Project>{915f191a-bad2-477d-bdee-87b43d6eb377}</Project>
+      <Name>GeradorDeProvas.Infra</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnAdicionar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Remove_27874.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain\bin\Debug\GeradorDeProvas.Domain.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain\bin\Debug\GeradorDeProvas.Domain.pdb
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain\obj\Debug\GeradorDeProvas.Domain.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain\obj\Debug\GeradorDeProvas.Domain.pdb
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain\obj\Debug\GeradorDeProvas.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Domain\bin\Debug\GeradorDeProvas.Domain.dll
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Domain\bin\Debug\GeradorDeProvas.Domain.pdb
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Domain\obj\Debug\GeradorDeProvas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Domain\obj\Debug\GeradorDeProvas.Domain.dll
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Domain\obj\Debug\GeradorDeProvas.Domain.pdb

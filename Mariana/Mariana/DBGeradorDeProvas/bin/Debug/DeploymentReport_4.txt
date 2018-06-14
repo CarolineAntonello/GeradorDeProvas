@@ -1,0 +1,33 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[TBAlternativa]
+       [dbo].[TBQuestao]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[TBAlternativa].[QuestaoId] on table [dbo].[TBAlternativa] must be added, but the column has no default
+         value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue
+         you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of
+         smart-defaults as a deployment option.
+       The column [dbo].[TBQuestao].[AlternativaId] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       [dbo].[FK_TBQuestao_Alternativa] (Foreign Key)
+     Table rebuild
+       [dbo].[TBAlternativa] (Table)
+       [dbo].[TBQuestao] (Table)
+     Create
+       [dbo].[FK_TBAlternativa_TbQuestao] (Foreign Key)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_TBQuestao_Materia] (Foreign Key)
+     Create
+       [dbo].[FK_TBQuestao_Materia] (Foreign Key)
+
+The column [dbo].[TBAlternativa].[QuestaoId] on table [dbo].[TBAlternativa] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column [dbo].[TBQuestao].[AlternativaId] is being dropped, data loss could occur.
+

@@ -1,0 +1,16 @@
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\bin\Debug\GeradorDeProvas.Domain.Testes.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\bin\Debug\GeradorDeProvas.Domain.Testes.pdb
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\bin\Debug\GeradorDeProvas.Domain.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\bin\Debug\GeradorDeProvas.Infra.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\bin\Debug\GeradorDeProvas.Domain.pdb
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\bin\Debug\GeradorDeProvas.Infra.pdb
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\obj\Debug\GeradorDeProvas.Domain.Testes.csprojResolveAssemblyReference.cache
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\obj\Debug\GeradorDeProvas.Domain.Testes.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Domain.Testes\obj\Debug\GeradorDeProvas.Domain.Testes.pdb

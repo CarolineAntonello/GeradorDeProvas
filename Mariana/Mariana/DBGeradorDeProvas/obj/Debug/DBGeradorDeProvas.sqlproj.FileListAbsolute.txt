@@ -1,0 +1,9 @@
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\DBGeradorDeProvas\bin\Debug\DBGeradorDeProvas.dacpac
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\DBGeradorDeProvas\bin\Debug\DBGeradorDeProvas.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\DBGeradorDeProvas\bin\Debug\DBGeradorDeProvas.pdb
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\DBGeradorDeProvas\obj\Debug\Model.xml
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\DBGeradorDeProvas\obj\Debug\refactor.xml
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\DBGeradorDeProvas\obj\Debug\postdeploy.sql
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\DBGeradorDeProvas\obj\Debug\predeploy.sql
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\DBGeradorDeProvas\obj\Debug\DBGeradorDeProvas.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\DBGeradorDeProvas\obj\Debug\DBGeradorDeProvas.pdb

@@ -1,0 +1,28 @@
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Infra\obj\Debug\GeradorDeProvas.Infra.csprojResolveAssemblyReference.cache
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Infra\bin\Debug\GeradorDeProvas.Infra.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Infra\bin\Debug\GeradorDeProvas.Infra.pdb
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Infra\bin\Debug\CsvHelper.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Infra\bin\Debug\GeradorDeProvas.Domain.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Infra\bin\Debug\GeradorDeProvas.Infra.Data.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Infra\bin\Debug\itextsharp.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Infra\bin\Debug\GeradorDeProvas.Domain.pdb
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Infra\bin\Debug\GeradorDeProvas.Infra.Data.pdb
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Infra\bin\Debug\CsvHelper.xml
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Infra\bin\Debug\itextsharp.xml
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Infra\obj\Debug\GeradorDeProvas.Infra.dll
+C:\Users\ndduser\Desktop\Academia 2018\Skywalkers\SkyWalkers\Mariana\GeradorDeProvas.Infra\obj\Debug\GeradorDeProvas.Infra.pdb
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\bin\Debug\GeradorDeProvas.Infra.dll
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\bin\Debug\GeradorDeProvas.Infra.pdb
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\bin\Debug\CsvHelper.dll
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\bin\Debug\GeradorDeProvas.Domain.dll
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\bin\Debug\GeradorDeProvas.Infra.Data.dll
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\bin\Debug\itextsharp.dll
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\bin\Debug\GeradorDeProvas.Domain.pdb
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\bin\Debug\GeradorDeProvas.Infra.Data.pdb
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\bin\Debug\CsvHelper.xml
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\bin\Debug\itextsharp.xml
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\obj\Debug\GeradorDeProvas.Infra.csprojResolveAssemblyReference.cache
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\obj\Debug\GeradorDeProvas.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\obj\Debug\GeradorDeProvas.Infra.csproj.CopyComplete
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\obj\Debug\GeradorDeProvas.Infra.dll
+C:\Users\Caroline Antonello\Desktop\Academia Programador\Projetos\SkyWalkers\SkyWalkers\Mariana\Mariana\GeradorDeProvas.Infra\obj\Debug\GeradorDeProvas.Infra.pdb

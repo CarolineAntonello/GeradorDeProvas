@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[TBProva]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[TBProva] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_TBProva_Serie] (Foreign Key)
+       [dbo].[FK_TBProva_Disciplina] (Foreign Key)
+       [dbo].[FK_TBProva_Materia] (Foreign Key)
+     Create
+       [dbo].[FK_TBProva_Serie] (Foreign Key)
+       [dbo].[FK_TBProva_Disciplina] (Foreign Key)
+       [dbo].[FK_TBProva_Materia] (Foreign Key)

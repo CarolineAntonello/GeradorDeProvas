@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[TBAlternativa] (Table)
+       [dbo].[TBDisciplina] (Table)
+       [dbo].[TBMateria] (Table)
+       [dbo].[TBProva] (Table)
+       [dbo].[TBQuestao] (Table)
+       [dbo].[TBSerie] (Table)
+       [dbo].[FK_TBAlternativa_TBQuestao] (Foreign Key)
+       [dbo].[FK_TBMateria_TBDisciplina] (Foreign Key)
+       [dbo].[FK_TBMateria_TBSerie] (Foreign Key)
+       [dbo].[FK_TBProva_Serie] (Foreign Key)
+       [dbo].[FK_TBProva_Disciplina] (Foreign Key)
+       [dbo].[FK_TBProva_Materia] (Foreign Key)
+       [dbo].[FK_TBQuestao_Materia] (Foreign Key)
+
+** Supporting actions
